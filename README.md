@@ -1,1 +1,1 @@
-# -docs-ConOps.md
+Our team used GitHub to manage the full lifecycle of requirements collaboratively. The repository served as a centralized location where we stored and tracked all requirement types — including user, business, system, quality, and constraint requirements. The following practices and structures were used:
